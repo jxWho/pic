@@ -1,1 +1,3 @@
-# pic
+# pictures
+
+- repository used to store pictures
